@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, Python
 - 🌱 I’m currently learning SQL, German, Python
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me nicholashitt@gmail.com
+- 📫 How to reach me try here on GitHub!
 
 <!---
 LuckyHittman/LuckyHittman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
